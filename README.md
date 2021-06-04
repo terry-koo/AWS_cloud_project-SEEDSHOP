@@ -61,7 +61,7 @@
 
 ## 3. AWS
 ### A. EC2
-![ec2스크린샷](https://user-images.githubusercontent.com/67509011/120859528-4e6b1c80-c5bf-11eb-9ec2-5c8b74b926d5.png)
+![EC2 캡처](https://user-images.githubusercontent.com/67509011/120866199-672cff80-c5ca-11eb-8be6-55cdf31603e4.png)
 ### B. RDS
 ![rds](https://user-images.githubusercontent.com/67509011/120861395-38129000-c5c2-11eb-9434-3ab7e13461c4.png)
 ![논리적 모델링](https://user-images.githubusercontent.com/67509011/120859543-51660d00-c5bf-11eb-9d32-0ea4661bc2e5.PNG)
