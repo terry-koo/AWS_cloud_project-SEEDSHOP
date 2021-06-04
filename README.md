@@ -3,7 +3,10 @@
 # 1. 웹 홈페이지
 ## A. 고객
 ![메인](https://user-images.githubusercontent.com/67509011/120858986-89b91b80-c5be-11eb-808b-a9450b171dfb.png)
+#### 메인 페이지
+
 ![로그인](https://user-images.githubusercontent.com/67509011/120859498-49a66880-c5bf-11eb-94c4-47bb60cb1d07.png)
+#### 로그인 페이지
 ![로그인완료](https://user-images.githubusercontent.com/67509011/120859502-4a3eff00-c5bf-11eb-9022-c06668cc56c1.png)
 ![씨앗구매 페이지](https://user-images.githubusercontent.com/67509011/120859519-4d39ef80-c5bf-11eb-8125-883012b31d62.png)
 ![모종 구매 페이지](https://user-images.githubusercontent.com/67509011/120859511-4b702c00-c5bf-11eb-9c2d-e7b2008922fe.png)
