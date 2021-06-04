@@ -3,8 +3,8 @@
 # 1. 웹 홈페이지
 [홈페이지 링크 바로가기](http://ec2-3-37-50-123.ap-northeast-2.compute.amazonaws.com:8080/seedshop/home/index.jsp)
 > ## A. 고객
-##### 메인 
-![메인](https://user-images.githubusercontent.com/67509011/120858986-89b91b80-c5be-11eb-808b-a9450b171dfb.png)
+>> ##### 메인 
+>> ![메인](https://user-images.githubusercontent.com/67509011/120858986-89b91b80-c5be-11eb-808b-a9450b171dfb.png)
 ##### 로그인 
 ![로그인하는](https://user-images.githubusercontent.com/67509011/120860604-e74e6780-c5c0-11eb-9d8c-d2b22828b697.png)
 #### 회원가입 
