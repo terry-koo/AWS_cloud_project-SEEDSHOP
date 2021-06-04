@@ -2,14 +2,14 @@
  AWS를 활용한 클라우드 프로젝트
 ## 1. 기술 
 - 언어
-  - HTML/CSS
-  - JavaScript
-  - Java(JDK 13.0.2)
-  - JSP
+  - `HTML/CSS`
+  - `JavaScript`
+  - `Java(JDK 13.0.2)`
+  - `JSP`
  - AWS
-   - EC2 : WAR배포
-   - RDS : Oracle Enterprise Edition
-   - SES
+   - `EC2` : WAR배포
+   - `RDS` : Oracle Enterprise Edition
+   - `SES`
 
 ## 2. 웹 홈페이지
 [홈페이지 링크 바로가기](http://ec2-3-37-50-123.ap-northeast-2.compute.amazonaws.com:8080/seedshop/home/index.jsp)
