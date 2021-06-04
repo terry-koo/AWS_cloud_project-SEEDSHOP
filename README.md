@@ -1,6 +1,7 @@
 # AWS_cloud_project-SEEDSHOP
  AWS를 활용한 클라우드 프로젝트
 # 1. 웹 홈페이지
+[홈페이지 링크](http://ec2-3-37-50-123.ap-northeast-2.compute.amazonaws.com:8080/seedshop/home/index.jsp)
 ## A. 고객
 ##### 메인 
 ![메인](https://user-images.githubusercontent.com/67509011/120858986-89b91b80-c5be-11eb-808b-a9450b171dfb.png)
