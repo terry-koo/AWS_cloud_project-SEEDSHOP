@@ -1,8 +1,19 @@
 # AWS_cloud_project-SEEDSHOP
  AWS를 활용한 클라우드 프로젝트
-# 1. 웹 홈페이지
+## 1. 기술 
+- 언어
+  - HTML/CSS
+  - JavaScript
+  - Java(JDK 13.0.2)
+  - JSP
+ - AWS
+   - EC2 : WAR배포
+   - RDS : Oracle Enterprise Edition
+   - SES
+
+## 2. 웹 홈페이지
 [홈페이지 링크 바로가기](http://ec2-3-37-50-123.ap-northeast-2.compute.amazonaws.com:8080/seedshop/home/index.jsp)
-## A. 고객
+### A. 고객
 ##### 메인 
 ![메인](https://user-images.githubusercontent.com/67509011/120858986-89b91b80-c5be-11eb-808b-a9450b171dfb.png)
 ##### 로그인 
@@ -26,7 +37,8 @@
 #### 고객센터 
 ![고객센터](https://user-images.githubusercontent.com/67509011/120859531-4f9c4980-c5bf-11eb-92c8-4053a8d266fe.png)
 
-## B. 직원
+
+### B. 직원
 #### 직원 로그인 완료 
 ![직원 로그인](https://user-images.githubusercontent.com/67509011/120859522-4dd28600-c5bf-11eb-928b-6841fe7324ce.png)
 #### 상품 추가
@@ -36,7 +48,7 @@
 #### 고객 관리
 ![관리고객](https://user-images.githubusercontent.com/67509011/120859535-4f9c4980-c5bf-11eb-9ff2-cd19ea24cef8.png)
 
-## C. 관리자
+### C. 관리자
 #### 관리자 로그인
 ![관리자 로그인](https://user-images.githubusercontent.com/67509011/120859537-5034e000-c5bf-11eb-9b01-9f464619cca3.png)
 #### 직원 정보 관리
@@ -46,12 +58,13 @@
 #### 고객 매출 순위
 ![고객 매출 순위](https://user-images.githubusercontent.com/67509011/120859529-4f03b300-c5bf-11eb-8ef2-53462119bacc.png)
 
-# 2. AWS
-## A. EC2
+
+## 3. AWS
+### A. EC2
 ![ec2스크린샷](https://user-images.githubusercontent.com/67509011/120859528-4e6b1c80-c5bf-11eb-9ec2-5c8b74b926d5.png)
-## B. RDS
+### B. RDS
 ![rds](https://user-images.githubusercontent.com/67509011/120861395-38129000-c5c2-11eb-9434-3ab7e13461c4.png)
 ![논리적 모델링](https://user-images.githubusercontent.com/67509011/120859543-51660d00-c5bf-11eb-9d32-0ea4661bc2e5.PNG)
-## C. Simple Email Service
+### C. Simple Email Service
 ![메일](https://user-images.githubusercontent.com/67509011/120859525-4e6b1c80-c5bf-11eb-841c-4daa6d1064ef.png)
 ![메일 세부내용](https://user-images.githubusercontent.com/67509011/120859507-4b702c00-c5bf-11eb-9ba2-7000e15eee3c.png)
