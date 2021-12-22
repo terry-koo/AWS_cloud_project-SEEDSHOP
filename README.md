@@ -1,5 +1,5 @@
 # SeedShop_Website_AWS 
- AWS를 활용한 클라우드 프로젝트
+🌱 AWS를 활용한 씨앗상점 프로젝트
 ## 1. 기술 
 - 언어
   - <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
