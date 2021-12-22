@@ -1,4 +1,4 @@
-# AWS_Cloud_Project [ SEEDSHOP ]
+# SeedShop_Website_AWS 
  AWS를 활용한 클라우드 프로젝트
 ## 1. 기술 
 - 언어
